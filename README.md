@@ -1,14 +1,8 @@
 # autoDeploy
 前端代码自动打包部署到服务器
-my-auto-deploy
-🎉Power Design By 打酱油🎉
-
+autoDeploy
 项目简介
 该项目是基于node实现，支持前端项目进行legacy、docker、docker-compose多种方式的远端自动化部署。
-
-该项目持续更新中，欢迎提交 pr及issues 😘
-
-更新：
 
 🎉现已支持legacy、docker、docker-compose三种部署方式
 🎉现已支持 上传编译后代码部署、上传前端源码远端编译部署两种方式 （ps：远端编译仅支持docker模式）
